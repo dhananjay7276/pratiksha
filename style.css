@@ -9,9 +9,9 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-
+  background-color: black;
   background-size: 1000px;
-  background-image: url("images/white-paper-texture.jpg");
+/*   background-image: url("images/white-paper-texture.jpg"); */
   background-position: cover cover;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 img {
-  max-height: 200px;
+  max-height: 400px;
   width: 100%;
   user-select: none;
 }
